@@ -19,7 +19,7 @@ const getRecentStories= [
       "heading": "new hdng",
       "images": [
         {
-          "id": "1585739039893-0",
+          "id": "158573039893-0",
           "img": "https://images.cricket.com/stories/1585739086649.jpg"
         },
         {
